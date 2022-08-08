@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    color: white;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+.color2{
+    background-color: #222222;
+}
+
+.color4{
+    background-color: #444444;
+}
+
+a{
+    text-decoration: none;
+}
+
+h3{
+    color: orange;
+    background-color: #333333;
+    padding: 3px 50px;
+    border: 1px solid #111111;
+}
+
+.divs{
+    padding: 20px 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.texts{
+    margin: 50px;
+    padding: 30px 15px;
+
+    background-color: #333333;
+    box-shadow: 10px 10px #222222;
+    border: 3px solid #111111;
+}
+
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    height: 70px;
+}
+
+header .logo{
+    margin-right: 100px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+header .logo h2{
+    color: orange;
+}
+
+header ul{
+    padding-left: 5%;
+    list-style: none;
+    display: flex;
+}
+
+header a{
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+header ul li a:hover{
+    color: orange;
+}
+
+header ul li + li{
+    margin-left: 5%;
+}
+
+
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.container i + i{
+    margin-left: 30px;
+}
+
+.retrato{
+    max-width: 300px;
+    margin: 50px;
+}
+
+.retrato img{
+    max-width: 100%;
+    min-width: 100%;
+    border-radius: 10px;
+    
+    box-shadow: 10px 10px #222222;
+    border: 5px solid #111111;
+}
+
+
+
+.gallery .project{
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #333333;
+    margin: 20px auto;
+    max-width: 300px;
+    box-shadow: 10px 10px #222222;
+    border: 3px solid #111111;
+
+}
+
+.gallery img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.project p{
+    margin: 10px;
+    padding: 10px;
+    background-color: #222222;
+    border-radius: 10px;
+}
+
+footer{
+    align-items: center;
+    justify-content: space-between;
+}
+
+.icons a + a{
+    margin-left: 30px;
+}
