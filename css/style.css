@@ -32,7 +32,7 @@ h3{
 }
 
 .divs{
-    padding: 20px 100px;
+    padding: 20px;
     display: flex;
     flex-wrap: wrap;
 }
@@ -49,6 +49,7 @@ h3{
 
 header {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
 
@@ -57,6 +58,7 @@ header {
 
 header .logo{
     margin-right: 100px;
+    margin-left: 20px;
     font-size: larger;
     font-weight: bold;
 }
@@ -98,8 +100,10 @@ header ul li + li{
 }
 
 .retrato{
+    position: relative;
     max-width: 300px;
-    margin: 50px;
+    right: 10px;
+    margin: 20px;
 }
 
 .retrato img{
