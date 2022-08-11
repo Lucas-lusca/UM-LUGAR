@@ -3,7 +3,7 @@ header {
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
-    height: 50px;
+    height: 60px;
 
     position: fixed;
     top: 0;
@@ -14,10 +14,8 @@ header {
 }
 
 header .logo{
-    margin-right: 100px;
+    margin-right: 130px;
     margin-left: 20px;
-    font-size: larger;
-    font-weight: bold;
 }
 
 header .logo h2{
