@@ -1,5 +1,4 @@
 .steangears{
-    right: 200px;
 }
 
 .gears{
@@ -10,26 +9,60 @@
 
 }
 
-.gear1 img{
-    bottom: 100px;
+.gear1{
+    bottom: 290px;
+    right: 1100px;
     width: 400px;
 }
 
 .gear2{
-    top: 300px;
+    top: 350px;
+    right: 1120px;
+    animation: revertspin 15s linear infinite;
 }
 
 .gear3{
-    top: 600px;
+    right: 1220px;
+    top: 610px;
 }
 
+.gear4{
+    top: 120px;
+    left: 185px;
+    width: 400px;
+    animation: revertspin 15s linear infinite;
+}
+
+.gear5{
+    top: 200px;
+    right: 460px;
+    width: 320px;
+}
+
+.gear6{
+    bottom: 300px;
+    right: 145px;
+    width: 400px;
+    animation: revertspin 15s linear infinite;
+}
+
+.gear7{
+    top: 375px;
+    right: 180px;
+    width: 370px;
+    animation: revertspin 15s linear infinite;
+}
 
 @keyframes spin{
     to{
         transform: rotate(1turn);
     }
     
-    /* 0%{
-        transform: rotate(360deg);
-    } */
+}
+
+@keyframes revertspin{
+    to{
+        transform: rotate(-1turn);
+    }
+    
 }
