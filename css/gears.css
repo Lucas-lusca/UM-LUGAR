@@ -10,7 +10,7 @@
 }
 
 .gear1{
-    bottom: 290px;
+    top: -30px;
     right: 1100px;
     width: 400px;
 }
@@ -28,7 +28,7 @@
 
 .gear4{
     top: 120px;
-    left: 185px;
+    right: 760px;
     width: 400px;
     animation: revertspin 15s linear infinite;
 }
@@ -40,7 +40,7 @@
 }
 
 .gear6{
-    bottom: 300px;
+    top: -35px;
     right: 145px;
     width: 400px;
     animation: revertspin 15s linear infinite;
