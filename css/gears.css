@@ -1,12 +1,18 @@
+.steangears{
+    right: 200px;
+}
+
 .gears{
     z-index: 1;
     position: fixed;
     width: 300px;
-    animation: spin 1s infinite;
+    animation: spin 15s linear infinite;
+
 }
 
-.gear1{
-
+.gear1 img{
+    bottom: 100px;
+    width: 400px;
 }
 
 .gear2{
