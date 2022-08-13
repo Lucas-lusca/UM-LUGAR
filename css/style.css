@@ -1,4 +1,5 @@
 * {
+    position: relative;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -41,7 +42,7 @@ h3{
 .texts{
     margin: 50px;
     padding: 30px 15px;
-
+    
     background-color: #333333;
     box-shadow: 10px 10px #222222;
     border: 3px solid #111111;
@@ -61,12 +62,18 @@ h3{
     border: 3px solid #111111;
 }
 
+.zum{
+    z-index: 1;
+}
+
+
 
 .about{
     margin-top: 60px;
 }
 
 .container{
+    z-index: 1;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -102,6 +109,7 @@ h3{
     max-width: 300px;
     box-shadow: 10px 10px #222222;
     border: 3px solid #111111;
+    transition-duration: 1s;
 }
 
 .project:hover{
@@ -126,8 +134,10 @@ h3{
 
 
 footer{
+    position: relative;
     align-items: center;
     justify-content: space-between;
+    z-index: 1;
 }
 
 .icons{

@@ -1,0 +1,29 @@
+.gears{
+    z-index: 1;
+    position: fixed;
+    width: 300px;
+    animation: spin 1s infinite;
+}
+
+.gear1{
+
+}
+
+.gear2{
+    top: 300px;
+}
+
+.gear3{
+    top: 600px;
+}
+
+
+@keyframes spin{
+    to{
+        transform: rotate(1turn);
+    }
+    
+    /* 0%{
+        transform: rotate(360deg);
+    } */
+}
