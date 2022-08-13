@@ -66,9 +66,10 @@ h3{
     z-index: 1;
 }
 
+/* 
 .aboutproject{
-    width: 275px;
-}
+    width: 270px;
+} */
 
 
 .about{
@@ -141,6 +142,7 @@ footer{
     align-items: center;
     justify-content: space-between;
     z-index: 1;
+    border-top: 5px solid #111111;
 }
 
 .icons{
