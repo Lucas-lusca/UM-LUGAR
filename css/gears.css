@@ -59,6 +59,13 @@
     width: 370px;
 }
 
+.gear9{
+    top: 690px;
+    right: 890px;
+    width: 370px;
+    animation: revertspin 15s linear infinite;
+}
+
 @keyframes spin{
     to{
         transform: rotate(1turn);
