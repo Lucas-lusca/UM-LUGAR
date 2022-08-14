@@ -9,6 +9,14 @@
 
 }
 
+.inversegears{
+    z-index: 1;
+    position: fixed;
+    width: 300px;
+    animation: revertspin 15s linear infinite;
+
+}
+
 .gear1{
     top: -30px;
     right: 1100px;
@@ -18,7 +26,6 @@
 .gear2{
     top: 350px;
     right: 1120px;
-    animation: revertspin 15s linear infinite;
 }
 
 .gear3{
@@ -30,7 +37,6 @@
     top: 120px;
     right: 760px;
     width: 400px;
-    animation: revertspin 15s linear infinite;
 }
 
 .gear5{
@@ -43,14 +49,12 @@
     top: -35px;
     right: 145px;
     width: 400px;
-    animation: revertspin 15s linear infinite;
 }
 
 .gear7{
     top: 375px;
     right: 180px;
     width: 370px;
-    animation: revertspin 15s linear infinite;
 }
 
 .gear8{
@@ -63,7 +67,6 @@
     top: 690px;
     right: 890px;
     width: 370px;
-    animation: revertspin 15s linear infinite;
 }
 
 @keyframes spin{
