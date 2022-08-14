@@ -1,5 +1,5 @@
-.steangears{
-}
+/* .steangears{
+} */
 
 .gears{
     z-index: 1;
@@ -51,6 +51,12 @@
     right: 180px;
     width: 370px;
     animation: revertspin 15s linear infinite;
+}
+
+.gear8{
+    top: 340px;
+    right: -160px;
+    width: 370px;
 }
 
 @keyframes spin{
