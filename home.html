@@ -5,15 +5,24 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LJS Portfólio</title>
+    
+    <!-- ======== CSS's ======== -->
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/gears.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-    <title>LJS Portfólio</title>
+  
+    <!-- ======== JS's ======== -->
+    <script src="/JS/audioManager.js"></script>
+
   </head>
 
   <body>
     
+    <!-- ======== AUDIOS ======== -->
+    <audio src="/audios/select.wav" id="seleted"></audio>
+
     <!-- ======== HEADER ======== -->
     <header class="color2">
         
@@ -29,6 +38,7 @@
         
     </header>
 
+    <!-- ======== ENGRENAGENS ======== -->
     <section class="steamgears">
 
       <img class="gears gear1" src="/images/gear.png" alt="ai">
@@ -82,7 +92,7 @@
         <div class="gallery divs">
           
           <!-- ========= Projeto ========= -->
-          <div class="project zum">
+          <div class="project zum" onmouseenter="mouseEnter()">
             <a href="https://umlugar.itch.io/bullet-on-target" target="_blank">
 
               <div class="illustration">
@@ -101,7 +111,7 @@
           </div>
           
           <!-- ========= Projeto ========= -->
-          <div class="project zum">
+          <div class="project zum" onmouseenter="mouseEnter()">
             <a href="https://umlugar.itch.io/stellar-survival" target="_blank">
 
               <div class="illustration">
@@ -121,7 +131,7 @@
           </div>
 
           <!-- ========= Projeto ========= -->
-          <div class="project zum">
+          <div class="project zum" onmouseenter="mouseEnter()">
             <a href="" target="_blank">
 
               <div class="illustration">
@@ -154,18 +164,18 @@
         </p>
       </div>
     </section>
-
-    <!-- ======== FOOTER ======== -->
-    <footer class="color2 divs">
-      <p>Feito com 🧡 por: Lucas Justi Scariot</p>
-      
-      <div class="icons">
-        <a href="https://twitter.com/_UmLucas_" target="_blank"><i class="devicon-twitter-original" title="External Link"></i></a>
-        <a href="https://github.com/Lucas-lusca" target="_blank"><i class="devicon-github-original" title="External Link"></i></a>
-        <a href="https://www.linkedin.com/in/lucas-justi-428938223/" target="_blank"><i class="devicon-linkedin-plain" title="External Link"></i></a>
-      </div>
-      
-    </footer>
-
   </body>
+
+  <!-- ======== FOOTER ======== -->
+  <footer class="color2 divs">
+    <p>Feito com 🧡 por: Lucas Justi Scariot</p>
+    
+    <div class="icons">
+      <a href="https://twitter.com/_UmLucas_" target="_blank"><i class="devicon-twitter-original" title="External Link"></i></a>
+      <a href="https://github.com/Lucas-lusca" target="_blank"><i class="devicon-github-original" title="External Link"></i></a>
+      <a href="https://www.linkedin.com/in/lucas-justi-428938223/" target="_blank"><i class="devicon-linkedin-plain" title="External Link"></i></a>
+    </div>
+    
+  </footer>
+
 </html>
