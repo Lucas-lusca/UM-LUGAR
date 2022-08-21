@@ -51,6 +51,12 @@ class Product{
             msg += 'Digite o preço do produto \n';
         }
         
+        var filter_nome = /^([a-zA-Zà-úÀ-Ú]|\s+)+$/;
+        if (!filter_nome.test(document.getElementById("SaveOrEdit").value)) {
+            document.getElementById("SaveOrEdit").value = '';
+            return false;
+        }
+
         // Se esta varaivel msg for direrente de nula, ela é printada, caso contrario não.
         // E esta função ira retornar false.
         if(msg != ''){
