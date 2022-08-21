@@ -3,6 +3,7 @@ class Product{
     constructor(){
         this.id = 1;
         this.arrayProduct = [];
+        this.editId = null;
     }
 
     // Chama a função addProduct
@@ -11,9 +12,13 @@ class Product{
         let product = this.readData();
 
         // Verifica se o retorno da função validadeField é true.
-        if(this.validateField(product)){
-            // Se for ele chama a função addProduct e passa o objeto product (que contem os valores) para ela.
-            this.addProduct(product);
+        // Se for ele chama a função addProduct e passa o objeto product (que contem os valores) para ela.
+        if(this.validateField(product)){ 
+            if(this.editId == null){
+                this.addProduct(product);
+            }else{
+                this.update(this.editId, product);
+            }
         }
 
         this.listTable(); // Chamando a função listTable
@@ -79,10 +84,10 @@ class Product{
 
             let imgEdit = document.createElement('img'); // createElemente cria um documento, nesse caso uma imagem.
             imgEdit.src = 'img/add.png'; // src Adiciona o caminho da imagem no documento criado.
+            imgEdit.setAttribute("onclick", "product.edit("+ JSON.stringify(this.arrayProduct[i]) +")"); // i passa o ID para açõa.
         
             let imgDelete = document.createElement('img');
             imgDelete.src = 'img/delete.png';
-
             // setAttribute passa um evento para algo no HTML e passa a ação que vai executar
             imgDelete.setAttribute("onclick", "product.delete("+ this.arrayProduct[i].id +")"); // i passa o ID para açõa deletar.
 
@@ -94,19 +99,42 @@ class Product{
 
     // Executa a função listTable.
     addProduct(product){
+        product.price = parseFloat(product.price);
         this.arrayProduct.push(product); // push é usado para adicionar valor a um campo array
         this.id++;
     }
 
     cancel(){
         // Passa os valores digitados pelo usuario como '' (vasio).
-        document.getElementById('productName').value = '';
-        document.getElementById('price').value = '';
+        document.getElementById("productName").value = '';
+        document.getElementById("price").value = '';
+
+        document.getElementById("SaveOrEdit").innerText = 'Salvar';
+        this.editId = null;
+    }
+
+
+    edit(data){
+        this.editId = data.id;
+
+        document.getElementById("productName").value = data.productName;
+        document.getElementById("price").value = data.price;
+
+        document.getElementById("SaveOrEdit").innerText = 'Atualizar';
+    }
+
+    update(id, product){
+        for(let i = 0; i < this.arrayProduct.length; i++){
+            if(this.arrayProduct[i].id == id){
+                this.arrayProduct[i].productName = product.productName;
+                this.arrayProduct[i].price = product.price;
+            }
+        }
     }
 
     // Percorre a lista e deleta o produto que o ID foi recebido da função listTable
     delete(id){
-        if (confirm('Deseja mesmo deletar o produto do ID: ' + id)) {
+        if (confirm('Deseja mesmo deletar o produto do ID: ' + id)){ // Verifica se o alerta retornou true
             let tbody = document.getElementById('tbody');
     
             for (let i = 0; i < this.arrayProduct.length; i++) { // Percorre os produtos da lista
@@ -120,9 +148,7 @@ class Product{
         }
 
     }
-
-
-
+    
 }
 
 var product = new Product();
