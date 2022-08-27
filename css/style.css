@@ -21,17 +21,19 @@ a{
     text-decoration: none;
 }
 
-h3{
-    font-family: sans-serif;
-    color: orange;
+.divName{
+    display: flex;
     background-color: var(--content-background);
     padding: 3px 50px;
-    border: 1px solid var(--contour);text-transform: uppercase;
-    font-weight: bold;
+    border: 3px solid var(--contour);text-transform: uppercase;
+}
+
+.divName h3{
+    color: orange;
 }
 
 .divs{
-    padding: 20px;
+    padding: 20px 10px;
     display: flex;
     flex-wrap: wrap;
 }
@@ -44,6 +46,31 @@ h3{
     box-shadow: 10px 10px 10px var(--img-text-color);
     border: 3px solid var(--contour);
 }
+
+
+
+
+#show-web{
+    display: flex;
+}
+
+#hide-web{
+    display: none;
+}
+
+#btn-hider{
+    width: 40px;
+    margin-left: 40px;
+    background-color: var(--img-text-color);
+}
+
+#btn-show{
+    width: 40px;
+    margin-left: 40px;
+    background-color: var(--img-text-color);
+    transform: rotate(180deg);
+}
+
 
 ::-webkit-scrollbar{
     width: 1em;
@@ -122,7 +149,7 @@ h3{
     transform: scale(1.1,1.1);
 }
 
-.gallery img{
+.gallery .project img{
     max-width: 100%;
     border-radius: 10px;
     border: 5px solid var(--contour);

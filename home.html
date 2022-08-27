@@ -15,8 +15,11 @@
 
   <body>
     
+
     <!-- ======== AUDIOS ======== -->
     <audio src="/audios/select.wav" id="seleted"></audio>
+
+
 
     <!-- ======== HEADER ======== -->
     <header>
@@ -33,6 +36,8 @@
         
     </header>
 
+
+
     <!-- ======== ENGRENAGENS ======== -->
     <section class="steamgears">
 
@@ -48,10 +53,12 @@
         
     </section> <!-- end steamgears -->
 
+
+    
     <!-- ======== SOBRE ======== -->
     <section id="about" class="about">
 
-      <div class="zum">
+      <div class="divName zum">
         <h3>About:</h3>
       </div> <!-- end zum -->
 
@@ -83,48 +90,116 @@
       </div> <!-- end container-->
     </section> <!-- end about -->
 
+
+
+
     <!-- ======== PROJETOS WEB ======== -->
     <section id="projects" class="projects">
 
-      <div class="zum">
+      <div class="divName zum">
         <h3>Web Projects:</h3>
+        <button id="btn-hider" onclick="hide()">^</button>
       </div> <!-- end zum -->
+      
+      <div id="show-web" class="gallery divs">
+          
+          <!-- ========= Projeto ========= -->
+          <div class="project zum" onmouseenter="mouseEnter()">
+            <a href="/zproductManager/index.gerenciador.html" target="_blank">
+  
+              <div class="illustration">
+                <img src="images/GerenciadordeProdutos.png" title="Image of a product manager">
+              </div>  <!-- end illustration -->
+              
+              <div class="text aboutproject">
+                <p>
+                  PRODUCT MANAGER <br>
+                  <br>
+                  Made with HTML, CSS and pure JavaScript.
+                </p>  
+              </div> <!-- end text -->
+            </a>
+          </div> <!-- end projects-->
+          
+          <!-- ========= Projeto ========= -->
+          <div class="project zum" onmouseenter="mouseEnter()">
+            <a href="" target="_blank">
+  
+              <div class="illustration">
+                <img src="/images/NullImage.png" title="NullImage">
+              </div>  <!-- end illustration -->
+  
+              <div class="text aboutproject">  
+                <p>
+                  Wait for the next project.
+                </p>
+              </div> <!-- end text -->
+            </a>
+          </div> <!-- end projects-->
+  
+          <!-- ========= Projeto ========= -->
+          <div class="project zum" onmouseenter="mouseEnter()">
+            <a href="" target="_blank">
+  
+              <div class="illustration">
+                <img src="/images/NullImage.png" title="NullImage">
+              </div> <!-- end illustration -->
+  
+              <div class="text aboutproject">  
+                <p>
+                  Wait for the next project.
+                </p>
+              </div> <!-- end text -->
+            </a>
+          </div> <!-- end project -->
+  
+        </div> <!-- end gallery-->
+    </section> <!-- end projects-->
 
-      <div class="gallery divs">
+    <!-- ======== PROJETOS GAMES ======== -->
+    <section id="projects" class="projects">
+      <div class="divName zum">
+        <h3>Games Projects:</h3>
+      </div>
+
+      <div id="show-games" class="gallery divs">
         
         <!-- ========= Projeto ========= -->
         <div class="project zum" onmouseenter="mouseEnter()">
-          <a href="/html/index.gerenciador.html" target="_blank">
+          <a href="https://umlugar.itch.io/bullet-on-target" target="_blank">
 
             <div class="illustration">
-              <img src="images/GerenciadordeProdutos.png" title="Image of a product manager">
-            </div>  <!-- end illustration -->
+              <img src="images/BulletOnTarget.png" title="Bullet On Target image, gun shooting at a target">
+            </div> <!-- end illustration-->
+            
             
             <div class="text aboutproject">
               <p>
-                PRODUCT MANAGER <br>
+                BULLET ON TARGET <br>
                 <br>
-                Made with HTML, CSS and pure JavaScript.
+                  A clicker upgrade genre game, where the player needs to shoot targets to earn points and buy upgrades that will allow him to earn more points.
               </p>  
             </div> <!-- end text -->
           </a>
-        </div> <!-- end projects-->
+        </div> <!-- end project -->
         
         <!-- ========= Projeto ========= -->
         <div class="project zum" onmouseenter="mouseEnter()">
-          <a href="" target="_blank">
+          <a href="https://umlugar.itch.io/stellar-survival" target="_blank">
 
             <div class="illustration">
-              <img src="/images/NullImage.png" title="NullImage">
-            </div>  <!-- end illustration -->
+              <img src="images/SurvivalStellar.png" title="Survival Stellar image, spaceship shooting an alien">
+            </div> <!-- end illuestration-->
 
-            <div class="text aboutproject">  
+            <div class="text aboutproject">
               <p>
-                Wait for the next project.
+                STELLAR SURVIVAL <br>
+                <br>
+                A classic spaceship game, where you have to survive terrible aliens who want to see you dead.
               </p>
-            </div> <!-- end text -->
+            </div> <!-- end text-->
           </a>
-        </div> <!-- end projects-->
+        </div> <!-- end project -->
 
         <!-- ========= Projeto ========= -->
         <div class="project zum" onmouseenter="mouseEnter()">
@@ -132,7 +207,7 @@
 
             <div class="illustration">
               <img src="/images/NullImage.png" title="NullImage">
-            </div> <!-- end illustration -->
+            </div> <!-- end illustration-->
 
             <div class="text aboutproject">  
               <p>
@@ -141,77 +216,16 @@
             </div> <!-- end text -->
           </a>
         </div> <!-- end project -->
-
       </div> <!-- end gallery-->
     </section> <!-- end projects-->
     
-    <!-- ======== PROJETOS GAMES ======== -->
-    <section id="projects" class="projects">
-        <div class="zum">
-          <h3>Games Projects:</h3>
-        </div>
 
-        <div class="gallery divs">
-          
-          <!-- ========= Projeto ========= -->
-          <div class="project zum" onmouseenter="mouseEnter()">
-            <a href="https://umlugar.itch.io/bullet-on-target" target="_blank">
 
-              <div class="illustration">
-                <img src="images/BulletOnTarget.png" title="Bullet On Target image, gun shooting at a target">
-              </div> <!-- end illustration-->
-              
-              
-              <div class="text aboutproject">
-                <p>
-                  BULLET ON TARGET <br>
-                  <br>
-                    A clicker upgrade genre game, where the player needs to shoot targets to earn points and buy upgrades that will allow him to earn more points.
-                </p>  
-              </div> <!-- end text -->
-            </a>
-          </div> <!-- end project -->
-          
-          <!-- ========= Projeto ========= -->
-          <div class="project zum" onmouseenter="mouseEnter()">
-            <a href="https://umlugar.itch.io/stellar-survival" target="_blank">
 
-              <div class="illustration">
-                <img src="images/SurvivalStellar.png" title="Survival Stellar image, spaceship shooting an alien">
-              </div> <!-- end illuestration-->
-
-              <div class="text aboutproject">
-                <p>
-                  STELLAR SURVIVAL <br>
-                  <br>
-                  A classic spaceship game, where you have to survive terrible aliens who want to see you dead.
-                </p>
-              </div> <!-- end text-->
-            </a>
-          </div> <!-- end project -->
-
-          <!-- ========= Projeto ========= -->
-          <div class="project zum" onmouseenter="mouseEnter()">
-            <a href="" target="_blank">
-
-              <div class="illustration">
-                <img src="/images/NullImage.png" title="NullImage">
-              </div> <!-- end illustration-->
-
-              <div class="text aboutproject">  
-                <p>
-                  Wait for the next project.
-                </p>
-              </div> <!-- end text -->
-            </a>
-          </div> <!-- end project -->
-        </div> <!-- end gallery-->
-      </section> <!-- end projects-->
-    
     <!-- ======== CONTATO ======== -->
     <section id="contact" class="contact">
 
-      <div class="zum">
+      <div class="divName zum">
         <h3>Contact:</h3>
       </div> <!-- end zum -->
 
@@ -221,6 +235,9 @@
         </p>
       </div> <!-- end text -->
     </section> <!-- end container -->
+
+
+
 
     <!-- ======== FOOTER ======== -->
     <footer class="divs">
@@ -235,8 +252,11 @@
     </footer>
 
 
+
     <!-- ======== JS's ======== -->
     <script src="/JS/audioManager.js"></script>
+    <script src="/JS/hideOrShow.js"></script>
+
 
   </body>
 
