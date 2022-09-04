@@ -58,6 +58,15 @@ a{
     display: none;
 }
 
+#show-games{
+    display: flex;
+}
+
+#hide-games{
+    display: none;
+}
+
+
 #btn-hider{
     width: 40px;
     margin-left: 40px;
@@ -70,6 +79,8 @@ a{
     background-color: var(--img-text-color);
     transform: rotate(180deg);
 }
+
+
 
 
 ::-webkit-scrollbar{

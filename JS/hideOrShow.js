@@ -1,27 +1,38 @@
-function hide(){
-    var showWeb = 'show-web';
-    var hideWeb = 'hide-web';
+function hide(btn){
     
-    if(document.getElementById(showWeb)){
-        var id  = document.getElementById(showWeb).id;
-        var btn = document.getElementById('btn-hider').id;
+    switch (btn) {
+        case 'btn-web':
+            var showWeb = 'show-web';
+            var hideWeb = 'hide-web';
 
-    }
+                if(document.getElementById(showWeb)){
+                    document.getElementById(showWeb).id = hideWeb;
+                    document.getElementById('btn-hider').id = 'btn-show';
+                }
+                else if(document.getElementById(hideWeb)){
+                    document.getElementById(hideWeb).id = showWeb;
+                    document.getElementById('btn-show').id = 'btn-hider';
+                };
 
-    if(document.getElementById(hideWeb)){
-        var idHide = document.getElementById(hideWeb).id;
-        var btn = document.getElementById('btn-show').id;
-    }
+            break;
 
+        case 'btn-game':
+            var showGame = 'show-games';
+            var hideGame = 'hide-games';
 
-    if(id == showWeb){
-        document.getElementById(showWeb).id = hideWeb;
-        document.getElementById('btn-hider').id = 'btn-show';
-    };
+                if(document.getElementById(showGame)){
+                    document.getElementById(showGame).id = hideGame;
+                    document.getElementsByName('btn-hider-game').id = 'btn-show';
+                }
+                else if(document.getElementById(hideGame)){
+                    document.getElementById(hideGame).id = showGame;
+                    document.getElementsByName('btn-hider-game').id = 'btn-hider';
+                };
+
+            break;
     
-
-    if(idHide == hideWeb){
-        document.getElementById(hideWeb).id = showWeb;
-        document.getElementById('btn-show').id = 'btn-hider';
-    };
+        default:
+            alert("ERRO");
+            break;
+    }
 };
