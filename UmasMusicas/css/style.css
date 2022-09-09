@@ -1,0 +1,83 @@
+@import url(/UmasMusicas/css/global/header.css);
+@import url(/UmasMusicas/css/global/footer.css);
+@import url(/UmasMusicas/css/global/config.css);
+
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+
+body {
+  display: flex;
+  width: 100%;
+  height: 100vh; /*  vh  lembre disso!  */
+}
+
+
+#gallery{
+  scroll-behavior: smooth;
+}
+
+.gallery{
+  background-color: var(--colorBackGround);
+  width: 100%;
+  height: 100%;
+  padding: 20px 40px;
+  overflow-y: auto;
+}
+
+.gallery .music{
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1000px;
+  
+  background-color: var(--colorCards);
+  margin: 20px 0px;
+  padding: 10px;
+  border-radius: var(--radios);
+  border: 3px solid var(--colorBorderCard);
+  
+  justify-content: center;
+  transition-duration: 1s;
+}
+
+.gallery .music:hover{
+  transform: scale(1.05,1.05);
+}
+
+.gallery .music .name{
+  background-color: var(--colorSecondBackGround);
+  padding: 0px 40px;
+  border-radius: var(--radios);
+  border: 3px solid var(--colorBorderCard);
+  color: var(--colorTexts);
+}
+
+.gallery .music .content{
+  display: flex;
+  align-items: center;
+}
+
+
+.gallery .music .content .previl img{
+  max-width: 100%;
+  border-radius: var(--radios);
+  border: 3px solid var(--colorHeader);
+}
+.gallery .music .content .about-music{
+  margin-left: 10px;
+  padding: 25px;
+  background-color: var(--colorSecondBackGround);
+  border-radius: var(--radios);
+  border: 3px solid var(--colorBorderCard);
+  color: var(--colorTexts);
+}
+
+audio::-webkit-media-controls-play-button,
+     audio::-webkit-media-controls-panel {
+     background-color: var(--colorTexts);
+}

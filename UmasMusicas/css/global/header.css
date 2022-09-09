@@ -1,0 +1,32 @@
+header {
+  background-color: var(--colorHeader);
+  color: var(--colorTexts);
+  width: 25%;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  border-right: 3px solid var(--colorBorder);
+}
+
+header .title{
+  margin: 20% 10%;
+  border-bottom: 5px solid var(--colorTexts);
+}
+
+header .options button{
+  display: grid;
+  margin: 15px 25%;
+  padding: 5%;
+  width: 50%;
+  cursor: pointer;
+  background-color: var(--colorSecondBackGround);
+  color: var(--colorTexts);
+
+  text-transform: uppercase;
+  font-size: large;
+  font-weight: bold;
+
+  border-radius: var(--radios);
+}
