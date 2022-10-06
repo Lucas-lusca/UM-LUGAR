@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link href="/images/gear.png" rel="icon" type="images/png">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/config.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/global/header.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/global/footer.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/gears.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</head>
+<body>
+
+    <!-- ======== HEADER ======== -->
+    <header>
+        
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+
+        <div class="logo">
+            <h2><tr>UM LUGAR</tr></h2>
+        </div>
+        
+    </header>
+
+
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+
+
+    <!-- ======== FOOTER ======== -->
+    <footer class="divs">
+        <p>Feito com 🧡 por: Lucas Justi Scariot</p>
+        
+        <div class="icons">
+
+        <a href="https://twitter.com/_UmLucas_" target="_blank"><i class="devicon-twitter-original" title="External Link"></i></a>
+        <a href="https://github.com/Lucas-lusca" target="_blank"><i class="devicon-github-original" title="External Link"></i></a>
+        <a href="https://www.linkedin.com/in/lucas-justi-428938223/" target="_blank"><i class="devicon-linkedin-plain" title="External Link"></i></a>
+        </div> <!-- end icons -->
+    </footer>
+
+    <!-- ======== JS's ======== -->
+    <script src="~/js/audioManager.js"></script>
+    <script src="~/js/hideOrShow.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

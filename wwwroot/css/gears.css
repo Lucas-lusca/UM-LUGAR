@@ -1,0 +1,81 @@
+.gears{
+    z-index: 1;
+    position: fixed;
+    width: 300px;
+    animation: spin 15s linear infinite;
+
+}
+
+.inversegears{
+    z-index: 1;
+    position: fixed;
+    width: 300px;
+    animation: revertspin 15s linear infinite;
+
+}
+
+.gear1{
+    top: -30px;
+    right: 1100px;
+    width: 400px;
+}
+
+.gear2{
+    top: 350px;
+    right: 1120px;
+}
+
+.gear3{
+    right: 1220px;
+    top: 610px;
+}
+
+.gear4{
+    top: 120px;
+    right: 760px;
+    width: 400px;
+}
+
+.gear5{
+    top: 200px;
+    right: 460px;
+    width: 320px;
+}
+
+.gear6{
+    top: -35px;
+    right: 145px;
+    width: 400px;
+}
+
+.gear7{
+    top: 375px;
+    right: 180px;
+    width: 370px;
+}
+
+.gear8{
+    top: 340px;
+    right: -160px;
+    width: 370px;
+}
+
+.gear9{
+    top: 690px;
+    right: 890px;
+    width: 370px;
+}
+
+@keyframes spin{
+    to{
+        transform: rotate(1turn);
+    }
+    
+}
+
+@keyframes revertspin{
+    to{
+        transform: rotate(-1turn);
+    }
+    
+}
