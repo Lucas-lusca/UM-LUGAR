@@ -1,0 +1,74 @@
+.for-new-music{
+    position: absolute;
+    height: 60%;
+    width: 30%;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    left: 40%;
+    top: 20%;
+    z-index: 1;
+
+    background-color: var(--colorHeader);
+    border-radius: 7px;
+    border: 3px solid var(--colorBorder);
+    color: var(--colorTexts);
+}
+
+.for-new-music h1{
+    margin-top: 10px;
+}
+
+
+.for-new-music .occupy{
+    display: grid;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.for-new-music input{
+    height: 35px;
+    width: 300px;
+    margin-top: 10px;
+    padding: 10px;
+
+    background-color: var(--colorTexts);
+    border: 0px;
+    border-radius: 5px;
+    color: var(--colorHeader);
+}
+.for-new-music input::placeholder{
+    color: var(--colorHeader);
+}
+
+.picture{
+    background-color: black;
+    display: flex;
+    position: center;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    width: 230px;
+    aspect-ratio: 16/9;
+
+    margin-left: 22%;
+    margin-top: 10px;
+
+    border: 3px dashed var(--colorBorder);
+    cursor: pointer;
+}
+
+.picture_image {
+    display: flex;
+    max-width: 120px;
+}
+
+.picture_img {
+    max-width: 100%;
+}
+
+#picture_input{
+    display: none;
+}

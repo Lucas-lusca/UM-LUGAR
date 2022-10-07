@@ -1,0 +1,11 @@
+footer{
+    padding: 5px;
+    background-color: var(--colorHeader);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+
+    border-top: 3px solid var(--colorBorder);
+    color: var(--colorTexts);
+  }

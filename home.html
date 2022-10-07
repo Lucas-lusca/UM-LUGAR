@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LJS Portfólio</title>
+    
+    <!-- ======== CSS's ======== -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+  </head>
+
+  <body>
+    
+
+    <!-- ======== AUDIOS ======== -->
+    <audio src="/audios/select.wav" id="seleted"></audio>
+
+
+
+    <!-- ======== HEADER ======== -->
+    <header>
+        
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+
+        <div class="logo">
+          <h2><tr>UM LUGAR</tr></h2>
+        </div>
+        
+    </header>
+
+
+
+    <!-- ======== ENGRENAGENS ======== -->
+    <section class="steamgears">
+
+      <img class="gears gear1" src="/images/gear.png" alt="ai">
+      <img class="inversegears gear2" src="/images/gear.png" alt="ai">
+      <img class="gears gear3" src="/images/gear.png" alt="ai">
+      <img class="inversegears gear4" src="/images/gear.png" alt="ai">
+      <img class="gears gear5" src="/images/gear.png" alt="ai">
+      <img class="inversegears gear6" src="/images/gear.png" alt="ai">
+      <img class="inversegears gear7" src="/images/gear.png" alt="ai">
+      <img class="gears gear8" src="/images/gear.png" alt="ai">
+      <img class="inversegears gear9" src="/images/gear.png" alt="ai">
+        
+    </section> <!-- end steamgears -->
+
+
+    
+    <!-- ======== SOBRE ======== -->
+    <section id="about" class="about">
+
+      <div class="divName zum">
+        <h3>About:</h3>
+      </div> <!-- end zum -->
+
+      <div class="container">
+          <div class="texts">
+            <span> Hello, I'm Lucas, I develop some games using Unity and I study: .NET, C#, PHP and Laravel.</span> <br>
+            <span>I have experience in HTML, CSS and JS. </span> <br>
+            <span>I took some courses about mySQL and studied about.</span> <br>
+              <br>
+              <i class="devicon-csharp-plain" title="C#"></i>
+              <i class="devicon-unity-original" title="Unity"></i>
+              <i class="devicon-php-plain" title="PHP"></i>
+              <i class="devicon-laravel-plain" title="Laravel"></i>
+              <i class="devicon-html5-plain" title="HTML"></i>
+              <i class="devicon-css3-plain" title="CSS"></i>
+              <i class="devicon-javascript-plain" title="JS"></i>  
+          </div> <!-- end text -->
+
+        <div class="retrato">
+          <img src="images/NullImage.png" alt="exemplo">
+        </div> <!-- end retrato-->
+
+          <div class="texts">
+            <p>Olá, sou o Lucas, Brasileiro, nasci em 2005 em uma cidade do Paraná.
+              Comecei a desenvolver jogos com 14 anos quando tive meu primeiro computador e resolvi fazer um curso de JavaScript. Um tempo depois comecei a estudar desenvolvimento web, fui direto para o PHP utilizando o Framework Laravel.</p>
+              <p> Acabei dando um tempo de desenvolvimento web e voltei a estudar gamedev mas desta vez utilizando C# na Unity, desenvolvi alguns projetos e conheci uma galera nessa época, chegamos a montar uma equipe e lançar um jogo na play store, a equipe acabou sendo desfeita um tempo depois. Fiquei um tempo perdido no que eu ia estudar, decidi voltar a pesquisar sobre desenvolvimento Web. </p>
+              <p>Por eu utilizar C# nos jogos, fui pesquisar sobre a linguagem na área web, e me deparei com um vídeo onde era falado sobre a arquitetura MVC (a mesma que aprendi com o Laravel) e C#, consegui entender praticamente tudo do vídeo e fui atrás pra praticar, acabei tendo bastante dificuldade, mas não na back-end, e sim na front, então parti estudar front, nessa época desenvolvi este portifólio que você provavelmente esta lendo neste momento e alguns outros projetos.</p>
+        </div><!-- end text -->
+      </div> <!-- end container-->
+    </section> <!-- end about -->
+
+
+
+
+    <!-- ======== PROJETOS WEB ======== -->
+    <section id="projects" class="projects">
+
+      <div class="divName zum">
+        <h3>Web Projects:</h3>
+        <button id="btn-hider" onclick="hide('btn-web')">^</button>
+      </div> <!-- end zum -->
+      
+      <div id="show-web" class="gallery divs">
+          
+          <!-- ========= Projeto ========= -->
+          <div class="project zum" onmouseenter="mouseEnter()">
+            <a href="/zproductManager/index.gerenciador.html" target="_blank">
+  
+              <div class="illustration">
+                <img src="images/GerenciadordeProdutos.png" title="Image of a product manager">
+              </div>  <!-- end illustration -->
+              
+              <div class="text aboutproject">
+                <p>
+                  PRODUCT MANAGER <br>
+                  <br>
+                  Made with HTML, CSS and pure JavaScript.
+                </p>  
+              </div> <!-- end text -->
+            </a>
+          </div> <!-- end projects-->
+          
+          <!-- ========= Projeto ========= -->
+          <div class="project zum" onmouseenter="mouseEnter()">
+            <a href="/UmasMusicas/index.html" target="_blank">
+  
+              <div class="illustration">
+                <img src="/images/UmasMusicasImage.png" title="NullImage">
+              </div>  <!-- end illustration -->
+  
+              <div class="text aboutproject">  
+                <p>
+                  An app to play some music, made in HTML, CSS and JavaScript.
+                </p>
+              </div> <!-- end text -->
+            </a>
+          </div> <!-- end projects-->
+  
+          <!-- ========= Projeto ========= -->
+          <div class="project zum" onmouseenter="mouseEnter()">
+            <a href="" target="_blank">
+  
+              <div class="illustration">
+                <img src="/images/NullImage.png" title="NullImage">
+              </div> <!-- end illustration -->
+  
+              <div class="text aboutproject">  
+                <p>
+                  Wait for the next project.
+                </p>
+              </div> <!-- end text -->
+            </a>
+          </div> <!-- end project -->
+  
+        </div> <!-- end gallery-->
+    </section> <!-- end projects-->
+
+    <!-- ======== PROJETOS GAMES ======== -->
+    <section id="projects" class="projects">
+      <div class="divName zum">
+        <h3>Games Projects:</h3>
+        <button id="btn-hider" name="btn-hider-game" onclick="hide('btn-game')">^</button>
+      </div>
+
+      <div id="show-games" name="games" class="gallery divs">
+        
+        <!-- ========= Projeto ========= -->
+        <div class="project zum" onmouseenter="mouseEnter()">
+          <a href="https://umlugar.itch.io/bullet-on-target" target="_blank">
+
+            <div class="illustration">
+              <img src="images/BulletOnTarget.png" title="Bullet On Target image, gun shooting at a target">
+            </div> <!-- end illustration-->
+            
+            
+            <div class="text aboutproject">
+              <p>
+                BULLET ON TARGET <br>
+                <br>
+                  A clicker upgrade genre game, where the player needs to shoot targets to earn points and buy upgrades that will allow him to earn more points.
+              </p>  
+            </div> <!-- end text -->
+          </a>
+        </div> <!-- end project -->
+        
+        <!-- ========= Projeto ========= -->
+        <div class="project zum" onmouseenter="mouseEnter()">
+          <a href="https://umlugar.itch.io/stellar-survival" target="_blank">
+
+            <div class="illustration">
+              <img src="images/SurvivalStellar.png" title="Survival Stellar image, spaceship shooting an alien">
+            </div> <!-- end illuestration-->
+
+            <div class="text aboutproject">
+              <p>
+                STELLAR SURVIVAL <br>
+                <br>
+                A classic spaceship game, where you have to survive terrible aliens who want to see you dead.
+              </p>
+            </div> <!-- end text-->
+          </a>
+        </div> <!-- end project -->
+
+        <!-- ========= Projeto ========= -->
+        <div class="project zum" onmouseenter="mouseEnter()">
+          <a href="" target="_blank">
+
+            <div class="illustration">
+              <img src="/images/NullImage.png" title="NullImage">
+            </div> <!-- end illustration-->
+
+            <div class="text aboutproject">  
+              <p>
+                Wait for the next project.
+              </p>
+            </div> <!-- end text -->
+          </a>
+        </div> <!-- end project -->
+      </div> <!-- end gallery-->
+    </section> <!-- end projects-->
+    
+
+
+
+    <!-- ======== CONTATO ======== -->
+    <section id="contact" class="contact">
+
+      <div class="divName zum">
+        <h3>Contact:</h3>
+      </div> <!-- end zum -->
+
+      <div class="container">
+        <p class="texts">
+          Email: lucas.justi20@gmail.com
+        </p>
+      </div> <!-- end text -->
+    </section> <!-- end container -->
+
+
+
+
+    <!-- ======== FOOTER ======== -->
+    <footer class="divs">
+      <p>Feito com 🧡 por: Lucas Justi Scariot</p>
+      
+      <div class="icons">
+
+        <a href="https://twitter.com/_UmLucas_" target="_blank"><i class="devicon-twitter-original" title="External Link"></i></a>
+        <a href="https://github.com/Lucas-lusca" target="_blank"><i class="devicon-github-original" title="External Link"></i></a>
+        <a href="https://www.linkedin.com/in/lucas-justi-428938223/" target="_blank"><i class="devicon-linkedin-plain" title="External Link"></i></a>
+      </div> <!-- end icons -->
+    </footer>
+
+
+
+    <!-- ======== JS's ======== -->
+    <script src="/JS/audioManager.js"></script>
+    <script src="/JS/hideOrShow.js"></script>
+
+
+  </body>
+
+</html>
