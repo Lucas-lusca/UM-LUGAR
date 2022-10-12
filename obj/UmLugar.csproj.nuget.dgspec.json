@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WebCods\\UmLugar.com\\UmLugar.csproj": {}
+    "D:\\WebCods\\Tranquilo_Refatorado\\UmLugar.csproj": {}
   },
   "projects": {
-    "D:\\WebCods\\UmLugar.com\\UmLugar.csproj": {
+    "D:\\WebCods\\Tranquilo_Refatorado\\UmLugar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WebCods\\UmLugar.com\\UmLugar.csproj",
+        "projectUniqueName": "D:\\WebCods\\Tranquilo_Refatorado\\UmLugar.csproj",
         "projectName": "UmLugar",
-        "projectPath": "D:\\WebCods\\UmLugar.com\\UmLugar.csproj",
+        "projectPath": "D:\\WebCods\\Tranquilo_Refatorado\\UmLugar.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "D:\\WebCods\\UmLugar.com\\obj\\",
+        "outputPath": "D:\\WebCods\\Tranquilo_Refatorado\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"

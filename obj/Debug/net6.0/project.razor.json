@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\WebCods\\UmLugar.com\\UmLugar.csproj",
+  "FilePath": "d:\\WebCods\\Tranquilo_Refatorado\\UmLugar.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,18 +16298,18 @@
   "RootNamespace": "UmLugar",
   "Documents": [
     {
-      "FilePath": "d:\\WebCods\\UmLugar.com\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\WebCods\\UmLugar.com\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "d:\\WebCods\\Tranquilo_Refatorado\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\WebCods\\UmLugar.com\\Views\\Home\\Index.cshtml",
+      "FilePath": "d:\\WebCods\\Tranquilo_Refatorado\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\WebCods\\Tranquilo_Refatorado\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],

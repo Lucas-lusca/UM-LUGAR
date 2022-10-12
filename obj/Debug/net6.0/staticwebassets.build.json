@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "P+PY0kMc0IwNBwOISVU6Qj501G9jtT0GDhbWjJW6XF8=",
+  "Hash": "db12HqIHkOiYj9HCmqPHDY1gCoiw+RVGq42nnygiTkE=",
   "Source": "UmLugar",
   "BasePath": "_content/UmLugar",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "UmLugar\\wwwroot",
       "Source": "UmLugar",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\css\\config.css",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\css\\config.css",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "css/config.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\config.css"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\css\\gears.css",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\css\\gears.css",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "css/gears.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\css\\gears.css"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\css\\global\\footer.css",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\css\\global\\footer.css",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "css/global/footer.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\global\\footer.css"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\css\\global\\header.css",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\css\\global\\header.css",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "css/global/header.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\global\\header.css"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\css\\site.css",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\css\\site.css",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\favicon.ico",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\favicon.ico",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\images\\BulletOnTarget.png",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\images\\BulletOnTarget.png",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "images/BulletOnTarget.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\BulletOnTarget.png"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\images\\gear.png",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\images\\gear.png",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "images/gear.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gear.png"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\images\\GerenciadordeProdutos.png",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\images\\GerenciadordeProdutos.png",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "images/GerenciadordeProdutos.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\GerenciadordeProdutos.png"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\images\\NullImage.png",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\images\\NullImage.png",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "images/NullImage.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\NullImage.png"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\images\\SurvivalStellar.png",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\images\\SurvivalStellar.png",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "images/SurvivalStellar.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SurvivalStellar.png"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\images\\UmasMusicasImage.png",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\images\\UmasMusicasImage.png",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "images/UmasMusicasImage.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\UmasMusicasImage.png"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\js\\audioManager.js",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\js\\audioManager.js",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "js/audioManager.js",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\js\\audioManager.js"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\js\\hideOrShow.js",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\js\\hideOrShow.js",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "js/hideOrShow.js",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\js\\hideOrShow.js"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\js\\site.js",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\js\\site.js",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\WebCods\\UmLugar.com\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "UmLugar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WebCods\\UmLugar.com\\wwwroot\\",
+      "ContentRoot": "D:\\WebCods\\Tranquilo_Refatorado\\wwwroot\\",
       "BasePath": "_content/UmLugar",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
