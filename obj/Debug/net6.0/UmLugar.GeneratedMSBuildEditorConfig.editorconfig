@@ -8,11 +8,11 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UmLugar
 build_property.RootNamespace = UmLugar
-build_property.ProjectDir = d:\WebCods\Tranquilo_Refatorado\
+build_property.ProjectDir = D:\WebCods\Tranquilo_Refatorado\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\WebCods\Tranquilo_Refatorado
+build_property.MSBuildProjectDirectory = D:\WebCods\Tranquilo_Refatorado
 build_property._RazorSourceGeneratorDebug = 
 
 [d:/WebCods/Tranquilo_Refatorado/Views/Home/Index.cshtml]
